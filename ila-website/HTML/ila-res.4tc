@@ -1,0 +1,11 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{2}{x2-1000}{QQ2-2-1}{Personal}}{1}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{3}{x3-2000}{QQ2-3-2}{Positions}}{3}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{4}{x4-3000}{QQ2-4-3}{Education}}{4}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{5}{x5-4000}{QQ2-5-4}{Awards}}{5}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{6}{x6-5000}{QQ2-6-5}{Current projects}}{6}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{7}{x7-6000}{QQ2-7-6}{Journal articles}}{7}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{8}{x8-7000}{QQ2-8-7}{In books and encyclopaedias}}{9}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{9}{x9-8000}{QQ2-9-8}{Public policy}}{10}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{10}{x10-9000}{QQ2-10-9}{Media activities}}{11}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{11}{x11-10000}{QQ2-11-10}{Teaching}}{12}\relax 
